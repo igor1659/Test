@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <icon src="../canais/foxsports2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <icon src="../canais/tvconcepcion.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <icon src="../canais/retrotv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <icon src="../canais/qvc2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <icon src="../canais/comedycentral.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV 2 HD">
+    <display-name lang="pt">SporTV 2 HD</display-name>
+    <icon src="../canais/1619138734.gif|../canais/1617141781.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <icon src="../canais/1568962167.gif|../canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
